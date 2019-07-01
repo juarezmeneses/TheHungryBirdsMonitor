@@ -12,6 +12,7 @@ https://github.com/juarezmeneses/TheHungryBirdsMonitor/tree/master/src/br/ufc/md
 Link para os esboços de soluções apresentados no relatório:
 https://github.com/juarezmeneses/TheHungryBirdsSemaphore/tree/master/src/br/ufc/mdcc/solutionssketches
 
+## Execução da Solução em Java usando Monitores:
 
 ![print1Monitor](https://user-images.githubusercontent.com/3067971/60441781-219d7600-9bee-11e9-8b0f-58334e1879d7.png)
 
